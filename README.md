@@ -10,26 +10,27 @@
 
 **Shamaine "Sham" Kittson — Senior Manager, Project Management @ [Caylent](https://caylent.com)**
 
-Based in Canada 🇨🇦, leading delivery across cloud, GenAI, and DevOps modernization engagements.
+Based in Canada 🇨🇦, leading delivery across cloud, genAI, and DevOps modernization engagements.
 
 ---
 
 ## About
 
 - 🧭 Senior Manager in Caylent's **Cloud Project Management (CPM)** practice
-- 👥 Supporting a team of project managers across the portfolio
+- 👥 Supporting a team of project managers across the portfolios
 - 🤖 Currently delivering **GenAI / AI SDLC** and **DevOps modernization** engagements
-- 🎓 Working toward my **AWS Cloud Architecture** certification (June 2026)
+- 🎓 Working towards my **Claude Certified Architect** Anthropic certification (June/July 2026)
 - 🌲 Outside of work — I love being out in nature
 
 ---
 
 ## What I Work On
 
-- **Multi-engagement delivery leadership** across HCLS, High-Tech, AI/GenAI, and Financial Services
+- **Multi-engagement delivery leadership** across Health Care Life Sciences and High-Tech engagements
 - **Agile delivery** — sprint ceremonies, kickoffs, closeouts, retros
+- **Agentic Workflows** — Leveraging agentic workflows to enable PM autonomy in complex decision-making while providing adaptive coaching for evolving skills
 - **Scope & change management** — change orders, budgets, risk reporting
-- **PM hiring & mentoring** — developing the next generation of delivery leaders
+- **PM hiring & mentoring** — developing the next generation of agentic project managers and delivery leaders
 - **Phase 2 / expansion planning** — turning successful deliveries into long-term partnerships
 
 ---
