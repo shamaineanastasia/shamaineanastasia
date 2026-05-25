@@ -17,7 +17,7 @@ Based in Canada 🇨🇦, leading delivery across cloud, GenAI, and DevOps moder
 ## About
 
 - 🧭 Senior Manager in Caylent's **Cloud Project Management (CPM)** practice
-- 👥 Supporting a team of **50+ project managers** across the portfolio
+- 👥 Supporting a team of project managers across the portfolio
 - 🤖 Currently delivering **GenAI / AI SDLC** and **DevOps modernization** engagements
 - 🎓 Working toward my **AWS Cloud Architecture** certification (June 2026)
 - 🌲 Outside of work — I love being out in nature
