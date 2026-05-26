@@ -53,8 +53,8 @@ Based in Canada 🇨🇦, leading delivery across cloud, genAI, and DevOps moder
 ## Connect
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/shamaine-kittson/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>(https://www.linkedin.com/in/sham-k-427120a1/)
+  <a href="https://www.linkedin.com/in/sham-k-427120a1/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:sham.kittson@caylent.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
