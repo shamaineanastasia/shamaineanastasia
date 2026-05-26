@@ -2,7 +2,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Senior+Manager%2C+Project+Management;Cloud+Delivery+Leader;Agile+%26+GenAI+Engagements;AWS+Cloud+Architecture+in+progress)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Senior+Manager%2C+Project+Management;Cloud+Delivery+Leader;Agile+%26+GenAI+Engagements;Anthropic+Claude+Certified+Architect+in+Progress)](https://git.io/typing-svg)
 
 </div>
 
