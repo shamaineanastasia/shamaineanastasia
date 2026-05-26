@@ -18,7 +18,7 @@ Based in Canada 🇨🇦, leading delivery across cloud, genAI, and DevOps moder
 
 - 🧭 Senior Manager in Caylent's **Cloud Project Management (CPM)** practice
 - 👥 Supporting a team of project managers across the portfolios
-- 🤖 Currently delivering **GenAI** and **DevOps modernization** engagements
+- 🤖 Currently delivering **Agentic AI,** **GenAI** and **DevOps modernization** engagements
 - 🎓 Working towards my **Claude Certified Architect** Anthropic certification (June/July 2026)
 - 🌲 Outside of work — I love being out in nature
 
